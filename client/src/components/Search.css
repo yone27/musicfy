@@ -1,0 +1,31 @@
+.searh {
+    margin-bottom: 10px;
+    margin-left: 20px;
+    padding-top: 10px;
+    display: flex;
+}
+.search__input,
+.search__input:focus {
+    background: transparent;
+    border: none;
+    color: white;
+    outline: none;
+    padding: 10px 30px 10px 15px;
+}
+.search__icon {
+    background-color: transparent;
+    border: none;
+}
+.search__icon .MuiSvgIcon-root {
+    color: white;
+}
+.namePage {
+    color: white;
+    margin-left: auto;
+    margin-right: 40px;
+    font-size: 3em;
+}
+.namePage span {
+    color: #ff00c6;
+    margin-left: -14px;
+}
